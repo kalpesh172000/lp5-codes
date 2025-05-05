@@ -1,0 +1,7 @@
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BasedOnStyle: LLVM
+IndentPPDirectives: AfterHash
+SpaceBeforeParens: ControlStatements
+AllowShortIfStatementsOnASingleLine: false

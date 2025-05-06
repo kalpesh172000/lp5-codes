@@ -1,3 +1,5 @@
 jupyter_env
 datasets
 *.zip
+
+.ipynb_checkpoints
